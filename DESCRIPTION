@@ -1,0 +1,11 @@
+Package: MTest
+Type: Package
+Title: M Test for relative clustering
+Version: 0.1
+Date: 2020-5-1
+Author: Kirt L. Onthank
+Maintainer: Kirt L. Onthank <Kirt.Onthank@wallawalla.edu>
+Description: Stuff
+License: CC0
+Imports:
+    spatstat
