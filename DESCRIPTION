@@ -1,7 +1,7 @@
 Package: MTest
 Type: Package
 Title: M Test for relative clustering
-Version: 0.1
+Version: 0.10
 Date: 2020-5-1
 Author: Kirt L. Onthank
 Maintainer: Kirt L. Onthank <Kirt.Onthank@wallawalla.edu>

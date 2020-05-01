@@ -56,7 +56,7 @@ m.test=function (X1,X2,b=100){
   
   envelope=data.frame(Mean,Up,Down)
   
-  M.p=sum(M.dist>=sum(M.est$Mr))/length(M.dist)
+  M.p=mean(abs(M.dist)>=abs(sum(M.est$Mr)))
   if (M.p==0){M.p=as.character(paste("<",1/length(M.dist),sep=""))}
 
   M.sum=sum(M.est$Mr)
