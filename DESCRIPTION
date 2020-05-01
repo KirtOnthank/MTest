@@ -9,3 +9,4 @@ Description: Stuff
 License: CC0
 Imports:
     spatstat
+RoxygenNote: 7.0.2
